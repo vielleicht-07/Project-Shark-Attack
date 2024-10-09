@@ -1,10 +1,10 @@
 # 🦈 Shark Attack Analysis
 
 ## 👥 Team Members
-- **Susana**
-- **Sara**
-- **Ruben**
-- **Caique**
+- **Susana: Sus-ie**
+- **Sara: sipaz00**
+- **Caique: fabriscaique**
+- **Ruben: vielleicht-07**
 
 ## 🌊 Overview
 The Shark Attack Analysis project was developed during the IronHack Data Analytics Bootcamp. Although shark attacks are rare, they can have serious consequences for beachgoers and marine enthusiasts. By studying these incidents, we can better understand the factors that contribute to shark attacks, leading to improved safety measures, increased awareness, and enhanced conservation efforts. This project involved cleaning and analyzing a dataset on shark attacks using Python and data wrangling techniques to uncover meaningful insights. 
