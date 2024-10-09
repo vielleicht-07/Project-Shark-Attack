@@ -20,7 +20,7 @@ The Shark Attack Analysis project was developed during the IronHack Data Analyti
 - **Python**: The primary programming language used.
 - **pandas**: For data manipulation and cleaning.
 - **Jupyter Notebook**: For coding and visualizations.
-- **Google Colab**: Used for collaborative coding and sharing.
+- **Google Colab**: Used for collaborative coding and sharing. 
 
 ## 📁 Repository Structure
 - **Main File**: `shark_attack_team_final.py` – This file contains the final analysis of the shark attack dataset.
